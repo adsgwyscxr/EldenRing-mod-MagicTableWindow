@@ -1,0 +1,1 @@
+# EldenRing-mod-MagicTableWindow
